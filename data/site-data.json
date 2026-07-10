@@ -1,0 +1,508 @@
+{
+  "brand": {
+    "name": "泗宇宙鮮烘咖啡豆",
+    "shortName": "泗宇宙",
+    "tagline": "率性，簡單，專注。",
+    "lineId": "0909041943",
+    "lineText": "LINE 官方加好友",
+    "lineUrl": "https://line.me/R/ti/p/~0909041943",
+    "lineQrMain": "assets/images/line/line-qr-main.jpg",
+    "lineQrBrand": "assets/images/line/line-qr-brand.jpg",
+    "logoImage": "assets/images/logo/siyu-logo.jpg",
+    "heroImage": "assets/images/brand/brand-universe.jpg"
+  },
+  "nav": [
+    {
+      "label": "首頁",
+      "url": "index.html",
+      "page": "home"
+    },
+    {
+      "label": "咖啡教學",
+      "url": "coffee.html",
+      "page": "education"
+    },
+    {
+      "label": "咖啡豆烘焙",
+      "url": "roasting.html",
+      "page": "roasting"
+    },
+    {
+      "label": "FAQ",
+      "url": "faq.html",
+      "page": "faq"
+    },
+    {
+      "label": "詢問",
+      "url": "contact.html",
+      "page": "contact"
+    },
+    {
+      "label": "訂購",
+      "url": "order.html",
+      "page": "order"
+    }
+  ],
+  "pages": {
+    "home": {
+      "kicker": "Fresh Roast Coffee Beans",
+      "title": "把複雜的風味，烘成日常能懂的一杯。",
+      "subtitle": "泗宇宙鮮烘咖啡豆相信咖啡不用被講得很遠。選好生豆，專注烘焙，讓每一包豆子保有乾淨香氣與清楚個性。",
+      "primaryCta": {
+        "label": "查看本月優惠",
+        "url": "order.html"
+      },
+      "secondaryCta": {
+        "label": "詢問風味建議",
+        "url": "contact.html"
+      },
+      "storyTitle": "品牌故事",
+      "story": [
+        "泗宇宙從一個很單純的念頭開始：好咖啡應該靠近生活，而不是把人擋在術語外面。",
+        "我們喜歡率性的選豆方式，也重視每一次烘焙的穩定。果香、堅果、焦糖、可可、香料，每一種風味都不急著誇張，只求在入口時清楚、舒服、耐喝。",
+        "簡單不是將就，專注也不是嚴肅。泗宇宙把注意力放在豆子、火候、養豆與出貨節奏，讓你拿到手的是新鮮、有方向，也適合日常沖煮的咖啡豆。"
+      ],
+      "values": [
+        {
+          "title": "率性",
+          "text": "不把咖啡說得太滿，用直覺好懂的風味描述幫你選豆。"
+        },
+        {
+          "title": "簡單",
+          "text": "用清楚豆單、清楚烘焙度、清楚聯絡方式，縮短選擇時間。"
+        },
+        {
+          "title": "專注",
+          "text": "每批豆子依產區與處理法調整烘焙曲線，保留它原本的個性。"
+        }
+      ],
+      "lineTitle": "加入 LINE，直接聊你喜歡的風味",
+      "lineBody": "不知道要選哪支豆子，可以直接傳訊息。告訴我們你喜歡果香、花香、堅果、巧克力或濃郁厚實，我們會推薦適合的烘焙度與豆款。",
+      "featureTitle": "本月網站重點",
+      "features": [
+        {
+          "title": "產區教學",
+          "text": "從瓜地馬拉、哥倫比亞、衣索比亞、肯亞到台灣，快速理解常見風味。"
+        },
+        {
+          "title": "烘焙流程",
+          "text": "看懂生豆、烘焙、養豆、研磨、沖煮與品嚐之間的關係。"
+        },
+        {
+          "title": "月更優惠",
+          "text": "每月優惠、集點活動與聯絡表單集中在訂購頁。"
+        }
+      ]
+    },
+    "education": {
+      "kicker": "Coffee Learning",
+      "title": "從產區與烘焙度，找到你會喜歡的咖啡豆。",
+      "subtitle": "不同產區像不同語氣，烘焙度則決定它要往明亮、平衡或濃郁走。先抓方向，再挑豆，會輕鬆很多。",
+      "image": "assets/images/content/coffee-origins.jpg",
+      "originsTitle": "各國咖啡豆產區",
+      "origins": [
+        {
+          "name": "瓜地馬拉",
+          "region": "中美洲火山土壤",
+          "flavor": "堅果香、巧克力",
+          "note": "適合喜歡穩定厚實與可可調性的日常杯。"
+        },
+        {
+          "name": "哥倫比亞",
+          "region": "南美高地",
+          "flavor": "果香明亮、焦糖、柑橘、堅果",
+          "note": "酸甜平衡，入門與手沖都容易親近。"
+        },
+        {
+          "name": "衣索比亞",
+          "region": "咖啡的發源地",
+          "flavor": "花香、果香、茶香",
+          "note": "適合喜歡輕盈、香氣細緻、層次活潑的人。"
+        },
+        {
+          "name": "肯亞",
+          "region": "非洲高海拔產區",
+          "flavor": "明亮酸質、莓果、柑橘、紅糖",
+          "note": "酸香鮮明，適合追求風味衝擊與清爽尾韻。"
+        },
+        {
+          "name": "巴西",
+          "region": "南美大型產區",
+          "flavor": "口感醇厚、堅果、巧克力、焦糖、奶油",
+          "note": "甜感穩，適合義式、拿鐵與日常黑咖啡。"
+        },
+        {
+          "name": "台灣",
+          "region": "高山栽培",
+          "flavor": "風味細緻、茶香、果香、蜜香",
+          "note": "香氣乾淨，適合想認識在地精品豆的人。"
+        },
+        {
+          "name": "印尼",
+          "region": "低酸厚實產區",
+          "flavor": "巧克力、香料、草本",
+          "note": "口感厚、尾韻長，適合喜歡濃郁低酸的人。"
+        },
+        {
+          "name": "哥斯大黎加",
+          "region": "中美洲精緻處理法",
+          "flavor": "酸質柔和、柑橘、蜂蜜、巧克力",
+          "note": "甜感清楚，適合喜歡乾淨果甜的人。"
+        }
+      ],
+      "roastTitle": "烘焙度與風味方向",
+      "roasts": [
+        {
+          "name": "淺焙",
+          "english": "Light Roast",
+          "summary": "果香明亮、酸質活潑、風味細緻，適合手沖、虹吸、單品愛好者。",
+          "tags": [
+            "柑橘",
+            "花香",
+            "莓果",
+            "蜂蜜"
+          ]
+        },
+        {
+          "name": "中焙",
+          "english": "Medium Roast",
+          "summary": "香氣平衡、口感圓潤、層次豐富，適合美式、拿鐵、日常享受。",
+          "tags": [
+            "堅果",
+            "焦糖",
+            "可可",
+            "奶油"
+          ]
+        },
+        {
+          "name": "深焙",
+          "english": "Dark Roast",
+          "summary": "濃郁厚實、低酸醇厚、尾韻悠長，適合義式、拿鐵、重口味愛好者。",
+          "tags": [
+            "巧克力",
+            "香料",
+            "焦糖",
+            "煙燻"
+          ]
+        }
+      ]
+    },
+    "roasting": {
+      "kicker": "Roast To Cup",
+      "title": "咖啡從烘豆到品嚐的 10 個步驟",
+      "subtitle": "一杯好喝的咖啡，來自生豆、烘焙、養豆、研磨、沖煮與品飲感受的連續選擇。",
+      "hideHeroImage": true,
+      "image": "assets/images/content/roasting-steps.jpg",
+      "steps": [
+        {
+          "number": "01",
+          "title": "生豆",
+          "text": "選擇優質生豆，了解產地、品種與處理法。",
+          "focus": "產地、品種、處理法、生豆分級",
+          "image": "assets/images/illustrations/roasting/01-green-beans.png",
+          "imageAlt": "?????????"
+        },
+        {
+          "number": "02",
+          "title": "烘焙",
+          "text": "透過烘焙發展豆子的香氣與風味，掌握烘焙曲線。",
+          "focus": "脫水期、梅納反應、一爆、二爆",
+          "image": "assets/images/illustrations/roasting/02-roasting-fire.png",
+          "imageAlt": "??????????"
+        },
+        {
+          "number": "03",
+          "title": "養豆",
+          "text": "烘焙後讓咖啡豆休息，釋放多餘二氧化碳。",
+          "focus": "淺焙 7-21 天，中焙 5-14 天，深焙 3-10 天",
+          "image": "assets/images/illustrations/roasting/03-degas-calendar.png",
+          "imageAlt": "?????????"
+        },
+        {
+          "number": "04",
+          "title": "磨豆",
+          "text": "依沖煮方式調整研磨粗細，影響萃取效果。",
+          "focus": "法壓壺粗磨，手沖中細磨，義式極細磨",
+          "image": "assets/images/illustrations/roasting/04-grinder.png",
+          "imageAlt": "?????"
+        },
+        {
+          "number": "05",
+          "title": "沖煮",
+          "text": "控制水溫、粉水比、時間與手法，萃取最佳風味。",
+          "focus": "水溫 88-96°C，注水速度與萃取時間",
+          "image": "assets/images/illustrations/roasting/05-brewing-kettle.png",
+          "imageAlt": "?????????"
+        },
+        {
+          "number": "06",
+          "title": "聞香",
+          "text": "先聞乾香，再聞濕香，感受香氣層次與豐富度。",
+          "focus": "乾香、濕香、花香、果香、堅果香",
+          "image": "assets/images/illustrations/roasting/06-aroma-steam.png",
+          "imageAlt": "????????"
+        },
+        {
+          "number": "07",
+          "title": "吸啜",
+          "text": "用力吸入讓液體霧化，感受香氣與風味全面釋放。",
+          "focus": "讓咖啡覆蓋口腔，辨識完整風味",
+          "image": "assets/images/illustrations/roasting/07-slurp-spoon.png",
+          "imageAlt": "????????"
+        },
+        {
+          "number": "08",
+          "title": "品嚐",
+          "text": "評估酸、甜、苦、醇厚度、平衡感、層次與餘韻。",
+          "focus": "酸甜苦、醇厚度、平衡感、乾淨度",
+          "image": "assets/images/illustrations/roasting/08-tasting-cup.png",
+          "imageAlt": "???????????"
+        },
+        {
+          "number": "09",
+          "title": "辨識風味",
+          "text": "參考風味輪，辨識花香、水果、糖類、堅果、巧克力、香料等風味。",
+          "focus": "柑橘、莓果、核果、巧克力、香料",
+          "image": "assets/images/illustrations/roasting/09-flavor-wheel.png",
+          "imageAlt": "???????????"
+        },
+        {
+          "number": "10",
+          "title": "餘韻",
+          "text": "感受回甘與餘韻長短，觀察整體舒適度。",
+          "focus": "回甘、尾韻、香氣變化、整體感受",
+          "image": "assets/images/illustrations/roasting/10-aftertaste-smile.png",
+          "imageAlt": "??????????"
+        }
+      ],
+      "summaryTitle": "咖啡關鍵重點",
+      "summary": [
+        "生豆重點：產地、品種、處理法、生豆分級。",
+        "烘焙重點：脫水、梅納反應、焦糖化、一爆與發展期。",
+        "沖煮關鍵：水溫、粉水比、研磨粗細、萃取時間、注水速度。",
+        "品嚐評估：酸質、甜感、苦感、醇厚度、平衡感、層次與餘韻。"
+      ]
+    },
+    "faq": {
+      "kicker": "Coffee Bean Q&A",
+      "title": "咖啡豆 FAQ",
+      "subtitle": "保存、烘焙度、咖啡因與挑選方向，一次回答。",
+      "hideHeroImage": true,
+      "image": "assets/images/content/coffee-faq.jpg",
+      "items": [
+        {
+          "q": "咖啡豆要如何保存？",
+          "a": "建議放置於陰涼乾燥處，避免陽光直射、高溫及潮濕環境。開封後請密封保存，並盡快飲用完畢。",
+          "image": "assets/images/illustrations/faq/01-storage-bag.png",
+          "imageAlt": "????????"
+        },
+        {
+          "q": "咖啡豆可以放冰箱嗎？",
+          "a": "一般不建議頻繁進出冰箱，容易因溫差產生濕氣影響風味。建議乾燥區密封保存即可。",
+          "image": "assets/images/illustrations/faq/02-no-fridge.png",
+          "imageAlt": "???????????"
+        },
+        {
+          "q": "咖啡豆開封後可以保存多久？",
+          "a": "建議於開封後 1-2 個月內飲用完畢，以享受最佳香氣與風味。",
+          "image": "assets/images/illustrations/faq/03-calendar.png",
+          "imageAlt": "?????????"
+        },
+        {
+          "q": "淺焙、中焙、深焙有什麼不同？",
+          "a": "淺焙果香明亮、酸質活潑；中焙風味均衡、甜感佳；深焙苦甜濃郁，焦糖與巧克力風味明顯。",
+          "image": "assets/images/illustrations/faq/04-roast-levels.png",
+          "imageAlt": "??????????"
+        },
+        {
+          "q": "咖啡有酸味是壞掉了嗎？",
+          "a": "不是。優質咖啡的酸味通常來自水果般的天然果酸，是精品咖啡的重要特色之一。",
+          "image": "assets/images/illustrations/faq/05-acidity-fruit.png",
+          "imageAlt": "???????????"
+        },
+        {
+          "q": "手沖咖啡適合什麼研磨度？",
+          "a": "一般建議中細研磨，實際可依沖煮器具與個人口感調整。",
+          "image": "assets/images/illustrations/faq/06-grind-size.png",
+          "imageAlt": "????????"
+        },
+        {
+          "q": "咖啡因含量會因烘焙度不同而改變嗎？",
+          "a": "差異不大，主要仍與咖啡豆品種、沖煮方式與粉量有關。",
+          "image": "assets/images/illustrations/faq/07-caffeine.png",
+          "imageAlt": "???????????"
+        },
+        {
+          "q": "一天喝多少咖啡比較適合？",
+          "a": "一般成人每日咖啡因攝取量建議不超過 400mg，大約 2-4 杯咖啡。",
+          "image": "assets/images/illustrations/faq/08-daily-cups.png",
+          "imageAlt": "????????"
+        },
+        {
+          "q": "如何挑選適合自己的咖啡豆？",
+          "a": "喜歡水果香、花香可選淺焙；喜歡平衡順口可選中焙；喜歡濃郁厚實可選深焙。",
+          "image": "assets/images/illustrations/faq/09-choose-flavor.png",
+          "imageAlt": "??????????"
+        },
+        {
+          "q": "不知道該選哪支咖啡怎麼辦？",
+          "a": "歡迎私訊告訴我們你喜歡的風味，例如果香、花香、堅果、巧克力或濃郁型，我們會推薦適合的咖啡豆。",
+          "image": "assets/images/illustrations/faq/10-contact-line.png",
+          "imageAlt": "LINE ?????????"
+        }
+      ]
+    },
+    "contact": {
+      "kicker": "Ask Before Order",
+      "title": "想問風味、豆單或沖煮建議？",
+      "subtitle": "留下資料，我們會依你喜歡的味道與沖煮方式推薦適合的咖啡豆。",
+      "formType": "inquiry",
+      "submitLabel": "送出詢問",
+      "testLabel": "送出測試資料",
+      "fields": [
+        {
+          "name": "name",
+          "label": "姓名",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "電話",
+          "type": "tel",
+          "required": true
+        },
+        {
+          "name": "lineId",
+          "label": "LINE ID",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "email",
+          "label": "Email",
+          "type": "email",
+          "required": false
+        },
+        {
+          "name": "topic",
+          "label": "詢問主題",
+          "type": "select",
+          "required": true,
+          "options": [
+            "產品風味",
+            "訂購方式",
+            "沖煮建議",
+            "大量訂購",
+            "其他"
+          ]
+        },
+        {
+          "name": "message",
+          "label": "想詢問的內容",
+          "type": "textarea",
+          "required": true
+        }
+      ]
+    },
+    "order": {
+      "kicker": "Monthly Offers",
+      "title": "每月優惠與聯絡詢問",
+      "subtitle": "目前不固定公開產品庫存與價格。想了解本月優惠、烘豆狀態或適合的風味，請直接填表或加入 LINE 聯絡。",
+      "month": "2026-07",
+      "menuTitle": "本月資訊",
+      "monthlyHighlights": [
+        {
+          "title": "本月優惠",
+          "text": "每月優惠依烘焙批次與活動調整，請填表留下聯絡方式，我們會回覆當月方案。"
+        },
+        {
+          "title": "風味建議",
+          "text": "不知道選哪一款，可以留下偏好：果香、花香、堅果、巧克力、低酸或濃郁厚實。"
+        },
+        {
+          "title": "直接聯絡",
+          "text": "可透過表單或 LINE 詢問本月現貨、優惠、研磨需求與取貨方式。"
+        }
+      ],
+      "promotionsTitle": "每月優惠",
+      "promotions": [
+        "本月優惠依烘豆批次與活動內容調整，請填表或 LINE 詢問。",
+        "新朋友加入 LINE 並完成首次訂購，可登記首購小禮。",
+        "固定回購可加入月配提醒，不錯過每月新鮮烘焙。"
+      ],
+      "loyaltyTitle": "集點活動",
+      "loyalty": [
+        "每購買一包咖啡豆累積 1 點。",
+        "集滿 10 點可兌換指定優惠或私訊詢問當月兌換品。",
+        "集點以 LINE 對話紀錄與訂單資料為準。"
+      ],
+      "formType": "order",
+      "submitLabel": "送出聯絡需求",
+      "testLabel": "送出測試聯絡",
+      "fields": [
+        {
+          "name": "name",
+          "label": "姓名",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "電話",
+          "type": "tel",
+          "required": true
+        },
+        {
+          "name": "lineId",
+          "label": "LINE ID",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "email",
+          "label": "Email",
+          "type": "email",
+          "required": false
+        },
+        {
+          "name": "topic",
+          "label": "想詢問的內容",
+          "type": "select",
+          "required": true,
+          "options": [
+            "本月優惠",
+            "本月現貨",
+            "風味推薦",
+            "研磨需求",
+            "取貨方式",
+            "其他"
+          ]
+        },
+        {
+          "name": "contactMethod",
+          "label": "希望聯絡方式",
+          "type": "select",
+          "required": true,
+          "options": [
+            "LINE",
+            "電話",
+            "Email",
+            "皆可"
+          ]
+        },
+        {
+          "name": "message",
+          "label": "需求說明",
+          "type": "textarea",
+          "required": true
+        }
+      ]
+    },
+    "thanks": {
+      "title": "謝謝，資料已送出。",
+      "subtitle": "我們會盡快透過你留下的聯絡方式回覆。頁面將在 2 秒後回到首頁。",
+      "redirectSeconds": 2
+    }
+  }
+}

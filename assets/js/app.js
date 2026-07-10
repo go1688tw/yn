@@ -102,11 +102,11 @@
 
   function renderHome(data, page) {
     $("body").css("--hero-image", "url('" + data.brand.heroImage.replace("assets/images/", "../images/") + "')");
+    var kickerHtml = page.kicker ? '<p class="kicker">' + escapeHtml(page.kicker) + "</p>" : "";
     $("#app").html(
       '<section class="hero"><div class="container"><div class="hero-content">' +
-        '<p class="kicker">' +
-        escapeHtml(page.kicker) +
-        "</p><h1>" +
+        kickerHtml +
+        "<h1>" +
         escapeHtml(page.title) +
         '</h1><p class="lead">' +
         escapeHtml(page.subtitle) +

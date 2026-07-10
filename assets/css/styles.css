@@ -184,6 +184,19 @@ a {
   max-width: 720px;
 }
 
+.hero-content h1,
+.hero-content .lead {
+  font-family: "Segoe Print", "DFKai-SB", "KaiTi", "Microsoft JhengHei", cursive;
+}
+
+.hero-content h1 {
+  font-weight: 700;
+}
+
+.hero-content .lead {
+  font-weight: 600;
+}
+
 .kicker {
   margin: 0 0 12px;
   color: var(--gold-soft);

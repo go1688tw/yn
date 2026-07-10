@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "泗宇宙鮮烘咖啡豆",
-    "shortName": "泗宇宙",
+    "name": "泗。鮮烘咖啡豆",
+    "shortName": "泗",
     "tagline": "率性，簡單，專注。",
     "lineId": "0909041943",
     "lineText": "LINE 官方加好友",
@@ -45,7 +45,7 @@
   ],
   "pages": {
     "home": {
-      "kicker": "Fresh Roast Coffee Beans",
+      "kicker": "",
       "title": "泗宇宙",
       "subtitle": "💞Pay It Forward💞。",
       "primaryCta": {

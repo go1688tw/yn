@@ -6,8 +6,8 @@
     "lineId": "0909041943",
     "lineText": "LINE 官方加好友",
     "lineUrl": "https://line.me/R/ti/p/~0909041943",
-    "lineQrMain": "assets/images/line/line-qr-main.jpg",
-    "lineQrBrand": "assets/images/line/line-qr-brand.jpg",
+    "lineQrMain": "assets/images/line/line-qr-official-5316.jpg",
+    "lineQrBrand": "assets/images/line/line-qr-official-5316.jpg",
     "logoImage": "assets/images/logo/siyu-logo.jpg",
     "heroImage": "assets/images/brand/brand-universe.jpg"
   },
@@ -46,8 +46,8 @@
   "pages": {
     "home": {
       "kicker": "Fresh Roast Coffee Beans",
-      "title": "把複雜的風味，烘成日常能懂的一杯。",
-      "subtitle": "泗宇宙鮮烘咖啡豆相信咖啡不用被講得很遠。選好生豆，專注烘焙，讓每一包豆子保有乾淨香氣與清楚個性。",
+      "title": "泗宇宙",
+      "subtitle": "💞Pay It Forward💞。",
       "primaryCta": {
         "label": "查看本月優惠",
         "url": "order.html"
@@ -433,7 +433,7 @@
       ],
       "loyaltyTitle": "集點活動",
       "loyalty": [
-        "每購買一包咖啡豆累積 1 點。",
+        "滿500元可集1點。",
         "集滿 10 點可兌換指定優惠或私訊詢問當月兌換品。",
         "集點以 LINE 對話紀錄與訂單資料為準。"
       ],

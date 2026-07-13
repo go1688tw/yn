@@ -153,6 +153,18 @@ a {
   margin: 0 auto;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .hero {
   position: relative;
   overflow: hidden;
@@ -170,6 +182,20 @@ a {
   background-position: center;
   background-size: cover;
   transform: scale(1.02);
+}
+
+body[data-page="home"] .hero {
+  background: #ffffff;
+  color: var(--ink);
+}
+
+body[data-page="home"] .hero::before {
+  background: var(--hero-image) center / contain no-repeat #ffffff;
+  transform: none;
+}
+
+body[data-page="home"] .hero .container {
+  min-height: min(760px, calc(100vh - 72px));
 }
 
 .hero .container {

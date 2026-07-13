@@ -3,13 +3,13 @@
     "name": "泗。鮮烘咖啡豆",
     "shortName": "泗",
     "tagline": "率性，簡單，專注。",
-    "lineId": "0909041943",
+    "lineId": "010afsbn",
     "lineText": "LINE 官方加好友",
-    "lineUrl": "https://line.me/R/ti/p/~0909041943",
-    "lineQrMain": "assets/images/line/line-qr-official-5316.jpg",
-    "lineQrBrand": "assets/images/line/line-qr-official-5316.jpg",
-    "logoImage": "assets/images/logo/siyu-logo.jpg",
-    "heroImage": "assets/images/brand/brand-universe.jpg"
+    "lineUrl": "https://page.line.me/010afsbn",
+    "lineQrMain": "assets/images/line/line-qr-page-010afsbn.png",
+    "lineQrBrand": "assets/images/line/line-qr-page-010afsbn.png",
+    "logoImage": "assets/images/logo/siyu-logo-cat.png",
+    "heroImage": "assets/images/brand/siyu-cat-astronaut-logo.png"
   },
   "nav": [
     {

@@ -33,7 +33,7 @@
   function getLineUrl(data) {
     var brand = data.brand || {};
     if (brand.lineUrl) return brand.lineUrl;
-    return "https://line.me/R/ti/p/~" + encodeURIComponent(brand.lineId || "");
+    return "https://page.line.me/" + encodeURIComponent(brand.lineId || "");
   }
 
   function renderShell(data, pageKey) {
@@ -102,28 +102,27 @@
 
   function renderHome(data, page) {
     $("body").css("--hero-image", "url('" + data.brand.heroImage.replace("assets/images/", "../images/") + "')");
-    var kickerHtml = page.kicker ? '<p class="kicker">' + escapeHtml(page.kicker) + "</p>" : "";
     $("#app").html(
-      '<section class="hero"><div class="container"><div class="hero-content">' +
-        kickerHtml +
-        "<h1>" +
+      '<section class="hero logo-hero" aria-label="' +
+        escapeHtml(page.title + " " + page.subtitle) +
+        '"><div class="container"><h1 class="sr-only">' +
         escapeHtml(page.title) +
-        '</h1><p class="lead">' +
+        '</h1><p class="sr-only">' +
         escapeHtml(page.subtitle) +
-        '</p><div class="actions"><a class="button" href="' +
-        page.primaryCta.url +
-        '">' +
-        escapeHtml(page.primaryCta.label) +
-        '</a><a class="button secondary" href="' +
-        page.secondaryCta.url +
-        '">' +
-        escapeHtml(page.secondaryCta.label) +
-        "</a></div></div></div></section>" +
+        "</p></div></section>" +
         '<section class="section"><div class="container story-grid"><div><div class="section-title"><p class="kicker">Brand Story</p><h2>' +
         escapeHtml(page.storyTitle) +
         '</h2></div><div class="prose">' +
         page.story.map(function (text) { return "<p>" + escapeHtml(text) + "</p>"; }).join("") +
-        '</div></div><div class="card-grid">' +
+        '</div><div class="actions"><a class="button" href="' +
+        page.primaryCta.url +
+        '">' +
+        escapeHtml(page.primaryCta.label) +
+        '</a><a class="button light" href="' +
+        page.secondaryCta.url +
+        '">' +
+        escapeHtml(page.secondaryCta.label) +
+        '</a></div></div><div class="card-grid">' +
         renderCards(page.values) +
         "</div></div></section>" +
         '<section class="section alt"><div class="container line-grid">' +

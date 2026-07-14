@@ -12,6 +12,7 @@
   --leaf: #4f6f3a;
   --line: #d8c4a4;
   --white: #fffaf1;
+  --logo-paper: #fdf5ea;
   --danger: #9b2e1f;
   --success: #476d3b;
   --shadow: 0 16px 40px rgba(44, 20, 9, 0.16);
@@ -185,12 +186,12 @@ a {
 }
 
 body[data-page="home"] .hero {
-  background: #ffffff;
+  background: var(--logo-paper);
   color: var(--ink);
 }
 
 body[data-page="home"] .hero::before {
-  background: var(--hero-image) center / contain no-repeat #ffffff;
+  background: var(--hero-image) center / contain no-repeat var(--logo-paper);
   transform: none;
 }
 

@@ -1,15 +1,15 @@
 {
   "brand": {
-    "name": "泗。鮮烘咖啡豆",
-    "shortName": "泗",
+    "name": "H宇宙",
+    "shortName": "H",
     "tagline": "率性，簡單，專注。",
     "lineId": "010afsbn",
     "lineText": "LINE 官方加好友",
     "lineUrl": "https://page.line.me/010afsbn",
     "lineQrMain": "assets/images/line/line-qr-page-010afsbn.png",
     "lineQrBrand": "assets/images/line/line-qr-page-010afsbn.png",
-    "logoImage": "assets/images/logo/siyu-logo-cat.png",
-    "heroImage": "assets/images/brand/siyu-cat-astronaut-logo.png"
+    "logoImage": "assets/images/logo/h-universe-pay-it-forward-logo-transparent.png",
+    "heroImage": "assets/images/brand/h-universe-pay-it-forward-transparent.png"
   },
   "nav": [
     {
@@ -46,7 +46,7 @@
   "pages": {
     "home": {
       "kicker": "",
-      "title": "泗宇宙",
+      "title": "H宇宙",
       "subtitle": "💞Pay It Forward💞",
       "primaryCta": {
         "label": "查看本月優惠",
@@ -58,9 +58,9 @@
       },
       "storyTitle": "品牌故事",
       "story": [
-        "泗宇宙從一個很單純的念頭開始：好咖啡應該靠近生活，而不是把人擋在術語外面。",
+        "H宇宙從一個很單純的念頭開始：好咖啡應該靠近生活，而不是把人擋在術語外面。",
         "我們喜歡率性的選豆方式，也重視每一次鮮烘的穩定。果香、堅果、焦糖、可可、香料，每一種風味都不急著誇張，只求在入口時清楚、舒服、耐喝。",
-        "簡單不是將就，專注也不是嚴肅。泗宇宙把注意力放在豆子、火候、養豆與出貨節奏，讓你拿到手的是新鮮、有方向，也適合日常沖煮的咖啡豆。"
+        "簡單不是將就，專注也不是嚴肅。H宇宙把注意力放在豆子、火候、養豆與出貨節奏，讓你拿到手的是新鮮、有方向，也適合日常沖煮的咖啡豆。"
       ],
       "values": [
         {

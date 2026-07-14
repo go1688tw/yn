@@ -1,7 +1,7 @@
 (function ($) {
   "use strict";
 
-  var DATA_PATH = "data/site-data.json?v=20260714-h-universe-transparent";
+  var DATA_PATH = "data/site-data.json?v=20260714-qr-5647";
 
   $(function () {
     $.getJSON(DATA_PATH)
